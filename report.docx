@@ -1,0 +1,36 @@
+# Data Cleaning & Visualization Project
+
+## Objective
+
+The objective of this project is to clean, process, and visualize data using Python libraries.
+
+## Dataset Used
+
+Sales Dataset (CSV format)
+
+## Tools and Libraries Used
+
+* Python
+* Pandas
+* Matplotlib
+* Seaborn
+
+## Steps Performed
+
+1. Loaded the dataset using Pandas
+2. Checked dataset information
+3. Checked missing values
+4. Removed duplicate rows
+5. Filled missing numerical values
+6. Saved cleaned dataset
+7. Created visualizations such as histogram and heatmap
+
+## Output
+
+* Cleaned dataset generated successfully
+* Histogram visualization created
+* Heatmap visualization created
+
+## Conclusion
+
+This project helped in understanding data preprocessing, cleaning techniques, and data visualization using Python.
